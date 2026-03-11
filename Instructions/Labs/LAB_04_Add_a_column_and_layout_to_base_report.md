@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 04: Add a column and layout to a base report'
-    module: 'Module 4: AL Objects'
+  title: 'Lab 04: Add a column and layout to a base report'
+  module: 'Module 4: AL Objects'
+  description: In this assignment, you will enhance the Vendor Purchase Report by incorporating the "Payment Terms Code" into the dataset and adjusting the report layout accordingly.
+  duration: 30 minutes
+  level: 300
+  islab: true
 ---
 
 Lab 04 – Add a column and layout to a base report.

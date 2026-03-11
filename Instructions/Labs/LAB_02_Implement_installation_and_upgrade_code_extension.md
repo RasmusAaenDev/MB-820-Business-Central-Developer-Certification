@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 02: Implement installation and upgrade code in an extension'
-    module: 'Module 4: AL Objects'
+  title: 'Lab 02: Implement installation and upgrade code in an extension'
+  module: 'Module 4: AL Objects'
+  description: In this assignment, you will create an installation codeunit and an upgrade codeunit.
+  duration: 30 minutes
+  level: 300
+  islab: true
 ---
 
 Lab 02 – Implement installation and upgrade code in an extension.
