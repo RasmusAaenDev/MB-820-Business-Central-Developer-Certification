@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 05: Develop custom API pages and queries'
-    module: 'Module 6: Dev Tools'
+  title: 'Lab 05: Develop custom API pages and queries'
+  module: 'Module 6: Dev Tools'
+  description: In this assignment, you will create two distinct APIs - one for managing items and another for querying item ledgers. These APIs will provide efficient access to critical data, streamlining processes for better item management and ledger inquiries.
+  duration: 56 minutes
+  level: 200
+  islab: true
 ---
 
 Lab 05 – Develop custom API pages and queries.
