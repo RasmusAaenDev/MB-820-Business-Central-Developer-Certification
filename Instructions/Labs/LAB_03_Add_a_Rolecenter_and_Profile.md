@@ -3,8 +3,8 @@ lab:
   title: 'Lab 03: Add a Rolecenter and Profile'
   module: 'Module 5: AL Objects'
   description: In this assignment, you will design a personalized dashboard, known as a "Role Center," in Microsoft Dynamics 365 Business Central, tailored to the specific needs of a chosen job role within the organization.
-  duration: 62 minutes
-  level: 200
+  duration: 30 minutes
+  level: 300
   islab: true
   primarytopics:
     - Dynamics 365
