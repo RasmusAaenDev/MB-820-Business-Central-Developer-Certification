@@ -3,8 +3,8 @@ lab:
   title: 'Lab 01: Create an extension containing a: table, table extension, pages, page extension.'
   module: 'Module 4: Install, develop, and deploy for the Business Central application'
   description: The objective is to create a custom application for vendor rating in Microsoft Dynamics 365 Business Central. This application should allow vendors to receive ratings classified into categories such as "Excellent," "Very Good," and "Good Average." Users should have the ability to edit and configure these rating values.
-  duration: 124 minutes
-  level: 100
+  duration: 30 minutes
+  level: 300
   islab: true
   primarytopics:
     - Dynamics 365
