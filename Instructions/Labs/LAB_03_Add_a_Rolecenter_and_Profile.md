@@ -182,7 +182,7 @@ To create a profile page, follow these steps:
 
 3.  Add the following code in the MyProfile.Profile.alfile:  
 
-   ```
+```
        al-languageCopy  
        profile MyProfile
            {
@@ -190,7 +190,7 @@ To create a profile page, follow these steps:
                RoleCenter = MyRoleCenter;
                Caption = 'My profile';
            }
-    ```
+```
 
 ### Deploy your Lab 03 Rolecenter app.
 
