@@ -54,6 +54,8 @@ To create a new app: Lab 02 InstallationUpgradeCode, follow these steps:
 
 7.  Create a new folder named: **src**.
 
+8.  Update the ID range in the app manifest **app.json**, with id range 50200 to 50249
+
 ### Create an Installation Codeunit
 
 To create an Installation Codeunit, follow these steps:
