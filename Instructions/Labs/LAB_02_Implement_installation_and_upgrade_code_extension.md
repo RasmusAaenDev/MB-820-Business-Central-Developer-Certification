@@ -69,7 +69,7 @@ To create an Installation Codeunit, follow these steps:
         codeunit 50200 Installation
            {  
                Subtype = Install;
-               trigger OnInstallAppPerDatabase();
+               trigger OnInstallAppPerCompany();
                var
                    myAppInfo: ModuleInfo;
                begin
